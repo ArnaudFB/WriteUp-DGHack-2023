@@ -122,7 +122,10 @@ DGHACK{12092023170334}
 ### Sixième flag : ID Please
 
 ```
-Après avoir compris que le Sam Brandy s'est peut-être retrouvé dans une zone exposée au risque de brouillage GPS, il est probable que, d'aprs votre expérience, l'un des navires rencontrés par le Sam Brady ait cherché à cacher ses activités illicites (pêches illégales, contrebande, piraterie, ...). Vous avez récupéré les enregistrements AI captés par le remorqueur, essayez d'identifier un navire qui aurait changer d'identité maritime en cours de route.
+Après avoir compris que le Sam Brandy s'est peut-être retrouvé dans une zone exposée au risque de brouillage GPS,
+il est probable que, d'après votre expérience, l'un des navires rencontrés par le Sam Brady ait cherché à cacher
+ses activités illicites (pêches illégales, contrebande, piraterie, ...). Vous avez récupéré les enregistrements AIS
+captés par le remorqueur, essayez d'identifier un navire qui aurait changer d'identité maritime en cours de route.
 Format du Flag: DGHACK{oldDATA_newDATA}
 ```
 
