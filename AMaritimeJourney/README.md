@@ -158,9 +158,9 @@ output <- read.table("output.txt", sep = ",")
 
 output <- output[, c(3, 7)]
 
-test <- unique(output)
+solution <- unique(output)
 
-test <- test %>% group_by(V7) %>% filter( n() == 2 )
+solution <- solution %>% group_by(V7) %>% filter( n() == 2 )
 ```
 On trouve le bateau suivant dont le mmsi a clairement changé :
 mmsi=227861937, shipname=DELTA YELLOW -> mmsi=883686372, shipname=DELTA YELLOW
