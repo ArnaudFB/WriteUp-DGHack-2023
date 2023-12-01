@@ -173,3 +173,5 @@ DGHACK{227861937_883686372}
 
 Malheureusement, il y avait ce bateau : mmsi=368286750, shipname=RESOLUTION -> mmsi=338034319, shipname=RESOLUTION
 Mais ce n'était pas la solution attendue
+
+Après avoir discuté avec des personnes qui ont complété le challenge, un moyen plus simple de trouver le sixième flag était de prendre également en compte le callsign du navire dans le code en R. Cela nous fait passer de  580 navires à 2 navires
